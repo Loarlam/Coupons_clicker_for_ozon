@@ -1,6 +1,4 @@
 # Coupons_clicker_for_ozon
-Кликер промокодов для сайта озон
-
 Принцип работы (для google chrome):
 >1. переходим по ссылке: https://www.ozon.ru/info/coupon/
 >2. совершаем вход под своей учеткой;
