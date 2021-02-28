@@ -1,2 +1,1 @@
-var clicker = document.querySelectorAll(".b3m1")
-clicker.forEach(btn => btn.click())
+document.querySelectorAll(".b3m1").forEach(btn => btn.click())
