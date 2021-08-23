@@ -1,1 +1,1 @@
-document.querySelectorAll(".b3m1").forEach(btn => btn.click())
+document.querySelectorAll(".f1k3").forEach(btn => btn.click())
